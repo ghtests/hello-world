@@ -1,2 +1,4 @@
 # hello-world
-test1
+
+New text 1.
+Next text 2.
